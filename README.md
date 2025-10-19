@@ -10,7 +10,6 @@ I am passionate about transforming data into meaningful insights that drive stra
 - Creating interactive dashboards and data visualisations using Power BI and Excel.
 - Performing exploratory data analysis to uncover trends and patterns that inform decision-making.
 - Applying data-driven storytelling to communicate complex insights clearly to non-technical audiences.
-- 
  ###
  
 🛠️ **Tools**
